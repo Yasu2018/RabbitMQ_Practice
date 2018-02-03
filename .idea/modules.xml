@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/takehara_artifact.iml" filepath="$PROJECT_DIR$/.idea/modules/takehara_artifact.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/takehara_artifact_main.iml" filepath="$PROJECT_DIR$/.idea/modules/takehara_artifact_main.iml" group="takehara_artifact" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/takehara_artifact_test.iml" filepath="$PROJECT_DIR$/.idea/modules/takehara_artifact_test.iml" group="takehara_artifact" />
+      <module fileurl="file://$PROJECT_DIR$/RabbitMQ_Practice.iml" filepath="$PROJECT_DIR$/RabbitMQ_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/new_task.iml" filepath="$PROJECT_DIR$/.idea/modules/new_task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/new_task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/new_task_main.iml" group="new_task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/new_task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/new_task_test.iml" group="new_task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rabbitmq_receiver.iml" filepath="$PROJECT_DIR$/.idea/modules/rabbitmq_receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rabbitmq_receiver_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rabbitmq_receiver_main.iml" group="rabbitmq_receiver" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rabbitmq_receiver_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rabbitmq_receiver_test.iml" group="rabbitmq_receiver" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rabbitmq_sender.iml" filepath="$PROJECT_DIR$/.idea/modules/rabbitmq_sender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rabbitmq_sender_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rabbitmq_sender_main.iml" group="rabbitmq_sender" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rabbitmq_sender_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rabbitmq_sender_test.iml" group="rabbitmq_sender" />
     </modules>
   </component>
 </project>
